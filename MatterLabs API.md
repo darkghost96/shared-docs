@@ -2,7 +2,6 @@
 
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Get transactions for an address](#get-transactions-for-an-address)
   - [Query Parameters](#query-parameters)
   - [Sample Request](#sample-request)
